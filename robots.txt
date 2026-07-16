@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kotagram25-alt.github.io/office-t-website/sitemap.xml
